@@ -1,0 +1,89 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{literature.bib} %Imports bibliography file
+\usepackage{wrapfig}
+\usepackage{geometry}
+ \geometry{
+ total={170mm,250mm},
+ top=15mm,
+ }
+ \usepackage{blindtext}
+% Load the setspace package
+\usepackage{setspace}
+\setstretch{1.5}
+\setcounter{tocdepth}{4}
+\setlength{\parindent}{0pt}
+\usepackage{lipsum}
+
+\date{November 2024}
+
+
+\begin{document}
+\begin{figure}
+    \includegraphics[width=0.4\textwidth]{images/MNG_pic.png}
+\end{figure}
+\begin{center}
+    \large
+    Irina Tiknonovskaia\\
+    \Huge \textbf{Raman Spectroscopy}
+    \\[0.5cm]
+    \includegraphics[width=9cm]{images/active_setup_photo.jpg}
+    \\[0.5cm]
+    \large
+    \textbf{Matura Thesis}\\
+    in the Subject Physics
+    \\[0.25cm]
+    \textbf{Supervision}\\
+    Dipl. Phys. ETH Daniel Keller
+    \\[0.25cm]
+    6. January 2025
+\end{center}
+\newpage
+\newgeometry{
+ a4paper,
+ total={140mm,230mm},
+ top=30mm,
+ }
+\section*{Abstract} 
+
+This thesis presents a study on Raman spectroscopy based on the 17th task statement of the International Young Physicists' Tournament (IYPT) 2025. It is a problem in the field of quantum mechanics, though it is also central in the field of physical chemistry. Changes in the wavelengths of scattered light are investigated. First the phenomenon of Raman scattering is qualitatively explained using a classical mechanics approach, and second, modified to explain a discreptancy between the Stokes and anti-Stokes shifts. To verify the theory, experiments were conducted, for the setup of which the needed materials and methods are discussed. The experimental data is evaluated and compared to literature values, very good agreement is achieved. The content of this thesis will be developed in preparation for the Swiss Young Physicists' Tournament (SYPT) and the International Young Physicists' Tournament (IYPT).
+
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+\include{introduction}
+\newpage
+
+\section{History and Applications}
+\input{hist_app}
+\newpage
+
+\section{Theory}
+\include{theory}
+\newpage
+
+\section{Material and Methods}\label{mat_met}
+\input{mat_met}
+\newpage
+
+\section{Experiment}
+\include{experiment}
+
+\newpage
+
+\include{results}
+\newpage
+
+\section*{Literature List}
+\printbibliography
+
+\section{Appendix}
+\input{appendix}
+
+\subsection*{(Maybe) Raw Data}
+\subsection*{Eigenständigkeitserklärung}
+\end{document}
