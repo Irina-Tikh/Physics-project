@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  24 DEC 2024 14:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  29 DEC 2024 20:02
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/irinatikhonovskaia/Downloads/Matura/main
-(/Users/irinatikhonovskaia/Downloads/Matura/main.tex
+**main
+(./main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -23,53 +22,72 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count196
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count197
- (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -132,7 +150,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -221,12 +240,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count378
 \c@textcitetotal=\count379
@@ -244,18 +265,21 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count387
 \c@bbx:relatedtotal=\count388
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -271,14 +295,17 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-02-20 L3 programming layer (loader) 
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count389
 \l__pdf_internal_box=\box51
@@ -287,20 +314,25 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-02-20 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen143
 \WF@size=\dimen144
 \c@WF@wrappedlines=\count390
 \WF@box=\box52
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count391
@@ -315,9 +347,11 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen151
 \Gm@layoutvoffset=\dimen152
 \Gm@dimlist=\toks19
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count394
@@ -338,19 +372,23 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count409
 \c@blind@pangramcount=\count410
 \c@blind@pangrammax=\count411
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count412
 \l__lipsum_a_int=\count413
 \l__lipsum_b_int=\count414
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 \@quotelevel=\count415
 \@quotereset=\count416
- (./main.aux (./introduction.aux) (./theory.aux) (./experiment.aux) (./results.aux))
+
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -367,7 +405,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
- (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count417
 \scratchdimen=\dimen153
@@ -382,13 +420,17 @@ LaTeX Font Info:    ... okay on input line 22.
 \everyMPtoPDFconversion=\toks21
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -397,11 +439,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -448,7 +490,8 @@ Package pdftex.def Info: images/active_setup_photo.jpg  used on input line 31.
 (pdftex.def)             Requested size: 256.0748pt x 413.621pt.
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/MNG_pic.png> <./images/active_setup_photo.jpg>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/MNG_pic.png> <./images/active_setup_photo.jpg>]
 
 Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
@@ -498,53 +541,126 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [3] [4]
 \openout2 = `introduction.aux'.
 
- (./introduction.tex) (./hist_app.tex [5
+ (./introduction.tex) (./hist_app.tex
+
+LaTeX Warning: Citation 'ram28' on page 5 undefined on input line 1.
+
+[5
 
 
 
-] [6]) [7] [8]
+]
+
+LaTeX Warning: Citation 'brittanica' on page 6 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'RSAA' on page 6 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'semiconductors' on page 6 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'pharma' on page 6 undefined on input line 39.
+
+[6]
+
+LaTeX Warning: Citation 'clinmed' on page 7 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'npj' on page 7 undefined on input line 46.
+
+
+LaTeX Warning: Citation 'micropl' on page 7 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'RSAA' on page 7 undefined on input line 54.
+
+) [7] [8]
 \openout2 = `theory.aux'.
 
  (./theory.tex) (./mat_met.tex
 <images/setup_graphics/setup_photo_numbered.png, id=38, 672.5125pt x 413.545pt>
+
 File: images/setup_graphics/setup_photo_numbered.png Graphic file (type png)
 <use images/setup_graphics/setup_photo_numbered.png>
-Package pdftex.def Info: images/setup_graphics/setup_photo_numbered.png  used on input line 5.
+Package pdftex.def Info: images/setup_graphics/setup_photo_numbered.png  used o
+n input line 5.
 (pdftex.def)             Requested size: 398.33858pt x 244.94858pt.
 <images/setup_graphics/setup_graphic.png, id=39, 872.25874pt x 377.41pt>
 File: images/setup_graphics/setup_graphic.png Graphic file (type png)
 <use images/setup_graphics/setup_graphic.png>
-Package pdftex.def Info: images/setup_graphics/setup_graphic.png  used on input line 15.
+Package pdftex.def Info: images/setup_graphics/setup_graphic.png  used on input
+ line 15.
 (pdftex.def)             Requested size: 398.33858pt x 172.34952pt.
- [9
+
+
+LaTeX Warning: Reference `fig:setup_graphic' on page 9 undefined on input line 
+20.
+
+[9
 
 
 
  <./images/setup_graphics/setup_photo_numbered.png>]
+
+LaTeX Warning: Citation 'wikilaser' on page 10 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'wikistimlaser' on page 10 undefined on input line 30.
+
 <images/setup_graphics/laser.png, id=44, 895.345pt x 400.49625pt>
 File: images/setup_graphics/laser.png Graphic file (type png)
 <use images/setup_graphics/laser.png>
-Package pdftex.def Info: images/setup_graphics/laser.png  used on input line 36.
+Package pdftex.def Info: images/setup_graphics/laser.png  used on input line 36
+.
 (pdftex.def)             Requested size: 398.33858pt x 178.18054pt.
- [10 <./images/setup_graphics/setup_graphic.png>] [11 <./images/setup_graphics/laser.png>]
+
+LaTeX Warning: Reference `fig:laser' on page 10 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'wikilaser' on page 10 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'wikistimlaser' on page 10 undefined on input line 42.
+
+[10 <./images/setup_graphics/setup_graphic.png>] [11 <./images/setup_graphics/l
+aser.png>]
 <images/setup_graphics/spectrometer.png, id=53, 688.5725pt x 600.2425pt>
 File: images/setup_graphics/spectrometer.png Graphic file (type png)
 <use images/setup_graphics/spectrometer.png>
-Package pdftex.def Info: images/setup_graphics/spectrometer.png  used on input line 55.
+Package pdftex.def Info: images/setup_graphics/spectrometer.png  used on input 
+line 55.
 (pdftex.def)             Requested size: 358.50227pt x 312.51257pt.
+
+
+LaTeX Warning: Citation 'RSAA' on page 12 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'wikioptspec' on page 12 undefined on input line 60.
+
+
+LaTeX Warning: Reference `fig:spectrometer' on page 12 undefined on input line 
+64.
+
+
+LaTeX Warning: Citation 'wikigrating' on page 12 undefined on input line 64.
+
 <images/setup_graphics/optical_grating.png, id=54, 620.3175pt x 485.815pt>
 File: images/setup_graphics/optical_grating.png Graphic file (type png)
 <use images/setup_graphics/optical_grating.png>
-Package pdftex.def Info: images/setup_graphics/optical_grating.png  used on input line 70.
+Package pdftex.def Info: images/setup_graphics/optical_grating.png  used on inp
+ut line 70.
 (pdftex.def)             Requested size: 119.50278pt x 93.58824pt.
- [12 <./images/setup_graphics/spectrometer.png>]
+[12 <./images/setup_graphics/spectrometer.png>]
 
-Package wrapfig Warning: Collision between wrapping environments on input line 77.
+Package wrapfig Warning: Collision between wrapping environments on input line 
+77.
 
 <images/setup_graphics/grating_graphic.png, id=59, 419.5675pt x 320.19624pt>
 File: images/setup_graphics/grating_graphic.png Graphic file (type png)
 <use images/setup_graphics/grating_graphic.png>
-Package pdftex.def Info: images/setup_graphics/grating_graphic.png  used on input line 79.
+Package pdftex.def Info: images/setup_graphics/grating_graphic.png  used on inp
+ut line 79.
 (pdftex.def)             Requested size: 159.333pt x 121.59277pt.
 
 Underfull \hbox (badness 1077) in paragraph at lines 76--82
@@ -557,19 +673,48 @@ Underfull \hbox (badness 1484) in paragraph at lines 76--82
  []
 
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 82.
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 82
+.
+
+
+LaTeX Warning: Reference `fig:grating' on page 13 undefined on input line 83.
+
+
+LaTeX Warning: Reference `fig:grating' on page 13 undefined on input line 87.
 
 
 Underfull \hbox (badness 1502) in paragraph at lines 92--93
-\OT1/cmr/m/n/10 wave-length $\OML/cmm/m/it/10 ^^U$\OT1/cmr/m/n/10 , they in-ter-fere with each
+\OT1/cmr/m/n/10 wave-length $\OML/cmm/m/it/10 ^^U$\OT1/cmr/m/n/10 , they in-ter
+-fere with each
  []
 
-[13 <./images/setup_graphics/optical_grating.png> <./images/setup_graphics/grating_graphic.png>]
+
+LaTeX Warning: Reference `fig:grating_graphic' on page 13 undefined on input li
+ne 99.
+
+
+LaTeX Warning: Reference `fig:grating_graphic' on page 13 undefined on input li
+ne 100.
+
+
+LaTeX Warning: Reference `fig:grating_graphic' on page 13 undefined on input li
+ne 103.
+
+[13 <./images/setup_graphics/optical_grating.png> <./images/setup_graphics/grat
+ing_graphic.png>]
 <images/data_raman.png, id=69, 310.15875pt x 284.06125pt>
 File: images/data_raman.png Graphic file (type png)
 <use images/data_raman.png>
 Package pdftex.def Info: images/data_raman.png  used on input line 123.
 (pdftex.def)             Requested size: 159.333pt x 145.9269pt.
+
+
+LaTeX Warning: Reference `fig:raman_txt' on page 14 undefined on input line 129
+.
+
+
+LaTeX Warning: Reference `fig:python' on page 14 undefined on input line 129.
+
 ) [14 <./images/data_raman.png>] [15]
 \openout2 = `experiment.aux'.
 
@@ -579,113 +724,185 @@ Package pdftex.def Info: images/data_raman.png  used on input line 123.
 \openout2 = `results.aux'.
 
  (./results.tex
+
+LaTeX Warning: Reference `mat_met' on page 17 undefined on input line 6.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
+
+
+LaTeX Warning: Reference `eq:2' on page 17 undefined on input line 40.
+
+
+LaTeX Warning: Reference `eq:1' on page 17 undefined on input line 40.
+
+
+LaTeX Warning: Reference `fig:python' on page 17 undefined on input line 40.
 
 [17
 
 
 
-] [18]
-<images/raman_spectra/raman_shift_DCM.png, id=87, 578.16pt x 361.35pt>
+]
+
+LaTeX Warning: Reference `fig:dcm_x' on page 18 undefined on input line 44.
+
+
+LaTeX Warning: Reference `fig:dcm_l' on page 18 undefined on input line 44.
+
+
+LaTeX Warning: Reference `table:dcm' on page 18 undefined on input line 44.
+
+[18]
+<images/raman_spectra/raman_shift_DCM.png, id=88, 578.16pt x 361.35pt>
 File: images/raman_spectra/raman_shift_DCM.png Graphic file (type png)
 <use images/raman_spectra/raman_shift_DCM.png>
-Package pdftex.def Info: images/raman_spectra/raman_shift_DCM.png  used on input line 50.
+Package pdftex.def Info: images/raman_spectra/raman_shift_DCM.png  used on inpu
+t line 75.
 (pdftex.def)             Requested size: 398.33858pt x 248.96234pt.
-<images/lit_raman/dichloromethane.png, id=88, 1319.93124pt x 470.75874pt>
+<images/lit_raman/dichloromethane.png, id=89, 1319.93124pt x 470.75874pt>
 File: images/lit_raman/dichloromethane.png Graphic file (type png)
 <use images/lit_raman/dichloromethane.png>
-Package pdftex.def Info: images/lit_raman/dichloromethane.png  used on input line 56.
+Package pdftex.def Info: images/lit_raman/dichloromethane.png  used on input li
+ne 81.
 (pdftex.def)             Requested size: 398.33858pt x 142.06914pt.
- [19 <./images/raman_spectra/raman_shift_DCM.png> <./images/lit_raman/dichloromethane.png>] [20]
-<images/raman_spectra/raman_shift_ethanol.png, id=98, 1036.87375pt x 493.845pt>
+
+
+LaTeX Warning: Citation 'spectrumdcm' on page 19 undefined on input line 82.
+
+[19 <./images/raman_spectra/raman_shift_DCM.png> <./images/lit_raman/dichlorome
+thane.png>]
+
+LaTeX Warning: Reference `fig:eth_x' on page 20 undefined on input line 88.
+
+[20]
+<images/raman_spectra/raman_shift_ethanol.png, id=99, 1036.87375pt x 493.845pt>
+
 File: images/raman_spectra/raman_shift_ethanol.png Graphic file (type png)
 <use images/raman_spectra/raman_shift_ethanol.png>
-Package pdftex.def Info: images/raman_spectra/raman_shift_ethanol.png  used on input line 68.
+Package pdftex.def Info: images/raman_spectra/raman_shift_ethanol.png  used on 
+input line 93.
 (pdftex.def)             Requested size: 398.33858pt x 189.72021pt.
-<images/lit_raman/ethanol.png, id=99, 1319.93124pt x 470.75874pt>
+<images/lit_raman/ethanol.png, id=100, 1319.93124pt x 470.75874pt>
 File: images/lit_raman/ethanol.png Graphic file (type png)
 <use images/lit_raman/ethanol.png>
-Package pdftex.def Info: images/lit_raman/ethanol.png  used on input line 75.
+Package pdftex.def Info: images/lit_raman/ethanol.png  used on input line 100.
 (pdftex.def)             Requested size: 398.33858pt x 142.06914pt.
- [21 <./images/raman_spectra/raman_shift_ethanol.png> <./images/lit_raman/ethanol.png>] [22]
-<images/raman_spectra/raman_shift_polyethyleneh.png, id=108, 1124.2pt x 729.72626pt>
-File: images/raman_spectra/raman_shift_polyethyleneh.png Graphic file (type png)
+
+
+LaTeX Warning: Citation 'spectrumet' on page 21 undefined on input line 101.
+
+[21 <./images/raman_spectra/raman_shift_ethanol.png> <./images/lit_raman/ethano
+l.png>]
+
+LaTeX Warning: Reference `fig:pe_x' on page 22 undefined on input line 107.
+
+[22]
+<images/raman_spectra/raman_shift_polyethyleneh.png, id=109, 1124.2pt x 729.726
+26pt>
+File: images/raman_spectra/raman_shift_polyethyleneh.png Graphic file (type png
+)
 <use images/raman_spectra/raman_shift_polyethyleneh.png>
-Package pdftex.def Info: images/raman_spectra/raman_shift_polyethyleneh.png  used on input line 88.
+Package pdftex.def Info: images/raman_spectra/raman_shift_polyethyleneh.png  us
+ed on input line 113.
 (pdftex.def)             Requested size: 398.33858pt x 258.55914pt.
-<images/lit_raman/HDPE.png, id=109, 1469.49pt x 520.94624pt>
+<images/lit_raman/HDPE.png, id=110, 1469.49pt x 520.94624pt>
 File: images/lit_raman/HDPE.png Graphic file (type png)
 <use images/lit_raman/HDPE.png>
-Package pdftex.def Info: images/lit_raman/HDPE.png  used on input line 95.
+Package pdftex.def Info: images/lit_raman/HDPE.png  used on input line 120.
 (pdftex.def)             Requested size: 398.33858pt x 141.21379pt.
- [23 <./images/raman_spectra/raman_shift_polyethyleneh.png> <./images/lit_raman/HDPE.png>] [24]
-<images/raman_spectra/raman_shift_polystyreneh.png, id=118, 1053.9375pt x 661.47125pt>
+
+
+LaTeX Warning: Citation 'spectrap' on page 23 undefined on input line 121.
+
+[23 <./images/raman_spectra/raman_shift_polyethyleneh.png> <./images/lit_raman/
+HDPE.png>]
+
+LaTeX Warning: Reference `fig:ps_x' on page 24 undefined on input line 126.
+
+[24]
+<images/raman_spectra/raman_shift_polystyreneh.png, id=119, 1053.9375pt x 661.4
+7125pt>
 File: images/raman_spectra/raman_shift_polystyreneh.png Graphic file (type png)
+
 <use images/raman_spectra/raman_shift_polystyreneh.png>
-Package pdftex.def Info: images/raman_spectra/raman_shift_polystyreneh.png  used on input line 107.
+Package pdftex.def Info: images/raman_spectra/raman_shift_polystyreneh.png  use
+d on input line 132.
 (pdftex.def)             Requested size: 478.00507pt x 300.01103pt.
-<images/lit_raman/PS.png, id=119, 1463.4675pt x 493.845pt>
+<images/lit_raman/PS.png, id=120, 1463.4675pt x 493.845pt>
 File: images/lit_raman/PS.png Graphic file (type png)
 <use images/lit_raman/PS.png>
-Package pdftex.def Info: images/lit_raman/PS.png  used on input line 114.
+Package pdftex.def Info: images/lit_raman/PS.png  used on input line 139.
 (pdftex.def)             Requested size: 398.33858pt x 134.4175pt.
-) [25 <./images/raman_spectra/raman_shift_polystyreneh.png> <./images/lit_raman/PS.png>]
-Overfull \hbox (9.23727pt too wide) in paragraph at lines 83--83
-[]\OT1/cmr/m/it/10 Optical Spec-trom-e-ter\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Optical _ spectrometer$\OT1/cmr/m/n/10 .
- []
 
 
-Overfull \hbox (9.8103pt too wide) in paragraph at lines 83--83
-\OT1/cmtt/m/n/10 2022 / 05 / 08 / polymer -[] analysis -[] using -[] raman -[] spectroscopy/$\OT1/cmr/m/n/10 . (ac-cessed: 12.12.2024). 
- []
+LaTeX Warning: Citation 'spectrap' on page 25 undefined on input line 140.
 
+) [25 <./images/raman_spectra/raman_shift_polystyreneh.png> <./images/lit_raman
+/PS.png>]
 
-Overfull \hbox (17.33199pt too wide) in paragraph at lines 83--83
-[]\OT1/cmr/m/it/10 Raman Spec-troscopy of Or-ganic and In-or-ganic Molecules\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / physicsopenlab .
- []
+LaTeX Warning: Empty bibliography on input line 82.
 
 [26
 
 
-]
-Overfull \hbox (0.66525pt too wide) in paragraph at lines 83--83
-[]\OT1/cmr/m/it/10 Stimulated emis-sion\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki / Stimulated _ emission$\OT1/cmr/m/n/10 .
- []
-
-[27] (./appendix.tex
+] (./appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-<images/code_raman_shift.png, id=134, 784.9325pt x 726.715pt>
+<images/code_raman_shift.png, id=130, 784.9325pt x 726.715pt>
 File: images/code_raman_shift.png Graphic file (type png)
 <use images/code_raman_shift.png>
 Package pdftex.def Info: images/code_raman_shift.png  used on input line 7.
 (pdftex.def)             Requested size: 358.50227pt x 331.91995pt.
-) [28 <./images/code_raman_shift.png>] (./main.aux (./introduction.aux) (./theory.aux) (./experiment.aux) (./results.aux))
+) [27 <./images/code_raman_shift.png>] (./main.aux (./introduction.aux)
+(./theory.aux) (./experiment.aux) (./results.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10920 strings out of 474116
- 213783 string characters out of 5743681
- 1938187 words of memory out of 5000000
- 33161 multiletter control sequences out of 15000+600000
- 561008 words of font info for 46 fonts, out of 8000000 for 9000
+ 10815 strings out of 474116
+ 210802 string characters out of 5743681
+ 1934187 words of memory out of 5000000
+ 33071 multiletter control sequences out of 15000+600000
+ 560539 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,7n,81p,1224b,1316s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (28 pages, 7880719 bytes).
+ 66i,10n,81p,1189b,1309s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (27 pages, 7857586 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 182 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
