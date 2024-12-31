@@ -1,0 +1,523 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{RSAA}{book}{}
+      \name{author}{1}{}{%
+        {{hash=256d95709ec89bcdb926471bd4e991fc}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Dheeraj\bibnamedelimb Kumar\bibnamedelima Singh},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{256d95709ec89bcdb926471bd4e991fc}
+      \strng{fullhash}{256d95709ec89bcdb926471bd4e991fc}
+      \strng{bibnamehash}{256d95709ec89bcdb926471bd4e991fc}
+      \strng{authorbibnamehash}{256d95709ec89bcdb926471bd4e991fc}
+      \strng{authornamehash}{256d95709ec89bcdb926471bd4e991fc}
+      \strng{authorfullhash}{256d95709ec89bcdb926471bd4e991fc}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789819717026}
+      \field{series}{Springer Series in Optical Sciences}
+      \field{title}{Raman Spectroscopy: Advances and Applications}
+      \field{year}{2024}
+      \keyw{physics}
+    \endentry
+    \entry{npj}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d56de0974da7b541977e9e4c2950893}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Katherine\bibnamedelimb J.\bibnamedelimi I.\bibnamedelimi Ember},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim E\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d56de0974da7b541977e9e4c2950893}
+      \strng{fullhash}{4d56de0974da7b541977e9e4c2950893}
+      \strng{bibnamehash}{4d56de0974da7b541977e9e4c2950893}
+      \strng{authorbibnamehash}{4d56de0974da7b541977e9e4c2950893}
+      \strng{authornamehash}{4d56de0974da7b541977e9e4c2950893}
+      \strng{authorfullhash}{4d56de0974da7b541977e9e4c2950893}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{npj Regenerative Medicine}
+      \field{number}{12}
+      \field{title}{Raman spectroscopy and regenerative medicine: a review}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{doi}
+      \verb https://doi.org/10.1038/s41536-017-0014-3
+      \endverb
+      \keyw{med}
+    \endentry
+    \entry{pel1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=56375b70ca6acae3b7c3c33e478db37b}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Tsuyoshi\bibnamedelima Furukawa},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{56375b70ca6acae3b7c3c33e478db37b}
+      \strng{fullhash}{56375b70ca6acae3b7c3c33e478db37b}
+      \strng{bibnamehash}{56375b70ca6acae3b7c3c33e478db37b}
+      \strng{authorbibnamehash}{56375b70ca6acae3b7c3c33e478db37b}
+      \strng{authornamehash}{56375b70ca6acae3b7c3c33e478db37b}
+      \strng{authorfullhash}{56375b70ca6acae3b7c3c33e478db37b}
+      \field{extraname}{3}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{-}
+      \field{journaltitle}{Polymer Journal}
+      \field{title}{Molecular Structure, Crystallinity and Morphology of Polyethylene/Polypropylene Blends Studied by Raman Mapping, Scanning Electron Microscopy, Wide Angle X-Ray Diffraction, and Differential Scanning Calorimetry}
+      \field{volume}{38}
+      \field{year}{2006}
+      \verb{doi}
+      \verb https://doi.org/10.1295/polymj.PJ2006056
+      \endverb
+      \keyw{pe}
+    \endentry
+    \entry{clinmed}{article}{}
+      \name{author}{1}{}{%
+        {{hash=13e1e6695ed21045b260d3033e158aef}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Yaping\bibnamedelima Qi},
+           giveni={Y\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{13e1e6695ed21045b260d3033e158aef}
+      \strng{fullhash}{13e1e6695ed21045b260d3033e158aef}
+      \strng{bibnamehash}{13e1e6695ed21045b260d3033e158aef}
+      \strng{authorbibnamehash}{13e1e6695ed21045b260d3033e158aef}
+      \strng{authornamehash}{13e1e6695ed21045b260d3033e158aef}
+      \strng{authorfullhash}{13e1e6695ed21045b260d3033e158aef}
+      \field{extraname}{4}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Frontiers}
+      \field{number}{2}
+      \field{title}{Applications of Raman spectroscopy in clinical medicine}
+      \field{volume}{5}
+      \field{year}{2024}
+      \field{pages}{392\bibrangedash 419}
+      \range{pages}{28}
+      \verb{doi}
+      \verb https://doi.org/10.1002/fft2.335
+      \endverb
+      \keyw{med}
+    \endentry
+    \entry{pel2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e6c1d11e4320b6576512ca21f77a160}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Yu\bibnamedelima V\bibnamedelima Zavgorodnev},
+           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e6c1d11e4320b6576512ca21f77a160}
+      \strng{fullhash}{2e6c1d11e4320b6576512ca21f77a160}
+      \strng{bibnamehash}{2e6c1d11e4320b6576512ca21f77a160}
+      \strng{authorbibnamehash}{2e6c1d11e4320b6576512ca21f77a160}
+      \strng{authornamehash}{2e6c1d11e4320b6576512ca21f77a160}
+      \strng{authorfullhash}{2e6c1d11e4320b6576512ca21f77a160}
+      \field{extraname}{5}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{title}{Raman study of uniaxial deformation of single-crystal mats of ultrahigh molecular weight linear polyethylene}
+      \field{volume}{594}
+      \field{year}{2015}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1088/1742-6596/594/1/012010
+      \endverb
+      \keyw{pe}
+    \endentry
+    \entry{ram28}{article}{}
+      \name{author}{1}{}{%
+        {{hash=47173c696386aa252f1abe8d44d8dc71}{%
+           family={Chandrasekhara\bibnamedelimb Venkata\bibnamedelima Raman},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Kariamanikkam\bibnamedelimb Srinivasa\bibnamedelima Krishnan},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{47173c696386aa252f1abe8d44d8dc71}
+      \strng{fullhash}{47173c696386aa252f1abe8d44d8dc71}
+      \strng{bibnamehash}{47173c696386aa252f1abe8d44d8dc71}
+      \strng{authorbibnamehash}{47173c696386aa252f1abe8d44d8dc71}
+      \strng{authornamehash}{47173c696386aa252f1abe8d44d8dc71}
+      \strng{authorfullhash}{47173c696386aa252f1abe8d44d8dc71}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{3048}
+      \field{title}{A New Type of Secondary Radiation}
+      \field{volume}{121}
+      \field{year}{1928}
+      \field{pages}{501\bibrangedash 502}
+      \range{pages}{2}
+      \verb{doi}
+      \verb https://doi.org/10.1038/121501c0
+      \endverb
+      \keyw{physics}
+    \endentry
+    \entry{wikigrating}{online}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 09.12.2024)}
+      \field{title}{Diffraction Grating}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Diffraction_grating
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Diffraction_grating
+      \endverb
+      \keyw{grating}
+    \endentry
+    \entry{dcml}{article}{}
+      \name{author}{1}{}{%
+        {{hash=79b42c5a475dda7d6a87c0eb34072328}{%
+           family={Dominik\bibnamedelimb Kurzydl\bibnamedelima owski},
+           familyi={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim o\bibinitperiod},
+           given={Taisiia\bibnamedelimb Chumakand\bibnamedelimb Jakub\bibnamedelima Rogoza},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{79b42c5a475dda7d6a87c0eb34072328}
+      \strng{fullhash}{79b42c5a475dda7d6a87c0eb34072328}
+      \strng{bibnamehash}{79b42c5a475dda7d6a87c0eb34072328}
+      \strng{authorbibnamehash}{79b42c5a475dda7d6a87c0eb34072328}
+      \strng{authornamehash}{79b42c5a475dda7d6a87c0eb34072328}
+      \strng{authorfullhash}{79b42c5a475dda7d6a87c0eb34072328}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{10}
+      \field{journaltitle}{crystals}
+      \field{title}{Phase Stability of Chloroform and Dichloromethaneat High Pressure}
+      \field{volume}{10}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.3390/cryst10100920
+      \endverb
+      \keyw{dcm}
+    \endentry
+    \entry{ethl1}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 30.12.2024)}
+      \field{title}{Ethanol(64-17-5) Raman}
+      \verb{urlraw}
+      \verb https://www.chemicalbook.com/SpectrumEN_64-17-5_Raman.htm
+      \endverb
+      \verb{url}
+      \verb https://www.chemicalbook.com/SpectrumEN_64-17-5_Raman.htm
+      \endverb
+      \keyw{spectra}
+    \endentry
+    \entry{wikilaser}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 05.12.2024)}
+      \field{title}{Laser}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Laser
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Laser
+      \endverb
+      \keyw{laser}
+    \endentry
+    \entry{micropl}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dcc9f5d57362232510e7323f0d38ec30}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kaili},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9756f8f053814eda965bf30843ca74a1}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=691ca4d9cf2a7417fa5ebc84d8f173f9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Huacai},
+           giveni={H\bibinitperiod}}}%
+        {{hash=357b0b769575e7caa1fa1e98ea04a1fe}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{2da4750f581eede247a0ddf7a6a4cec2}
+      \strng{fullhash}{984456bf0ba9341bfd245a00f40611c6}
+      \strng{bibnamehash}{2da4750f581eede247a0ddf7a6a4cec2}
+      \strng{authorbibnamehash}{2da4750f581eede247a0ddf7a6a4cec2}
+      \strng{authornamehash}{2da4750f581eede247a0ddf7a6a4cec2}
+      \strng{authorfullhash}{984456bf0ba9341bfd245a00f40611c6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Analyst}
+      \field{title}{Visual detection of microplastics using Raman spectroscopic imaging}
+      \field{volume}{149}
+      \field{year}{2024}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1039/D3AN01270K
+      \endverb
+      \keyw{microplastic}
+    \endentry
+    \entry{brittanica}{online}{}
+      \name{author}{1}{}{%
+        {{hash=94a1ca7b6b1521e603bd25add2577591}{%
+           family={Mahan},
+           familyi={M\bibinitperiod},
+           given={Gerald\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{94a1ca7b6b1521e603bd25add2577591}
+      \strng{fullhash}{94a1ca7b6b1521e603bd25add2577591}
+      \strng{bibnamehash}{94a1ca7b6b1521e603bd25add2577591}
+      \strng{authorbibnamehash}{94a1ca7b6b1521e603bd25add2577591}
+      \strng{authornamehash}{94a1ca7b6b1521e603bd25add2577591}
+      \strng{authorfullhash}{94a1ca7b6b1521e603bd25add2577591}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 22.11.2024)}
+      \field{title}{Crystal}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/crystal
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/crystal
+      \endverb
+      \keyw{crystal}
+    \endentry
+    \entry{semiconductors}{online}{}
+      \name{author}{2}{}{%
+        {{hash=1d48917e3feabe6bf131d687c5ec0ba8}{%
+           family={Maximilian\bibnamedelima Ries},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Thermo\bibnamedelima Fisher},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           suffix={Fabian\bibnamedelima Heisinger},
+           suffixi={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cdf493ebbbb00a18d88f64460075fb85}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Scientific},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{56a8c93e61550766af22a73c80619c89}
+      \strng{fullhash}{56a8c93e61550766af22a73c80619c89}
+      \strng{bibnamehash}{56a8c93e61550766af22a73c80619c89}
+      \strng{authorbibnamehash}{56a8c93e61550766af22a73c80619c89}
+      \strng{authornamehash}{56a8c93e61550766af22a73c80619c89}
+      \strng{authorfullhash}{56a8c93e61550766af22a73c80619c89}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 28.11.2024)}
+      \field{title}{Using Raman spectroscopy to determine the strain in semiconductor samples}
+      \verb{urlraw}
+      \verb https://assets.thermofisher.com/TFS-Assets/CAD/Application-Notes/using-raman-spectroscopy-strain-semiconductor-samples-an1023-en.pdf
+      \endverb
+      \verb{url}
+      \verb https://assets.thermofisher.com/TFS-Assets/CAD/Application-Notes/using-raman-spectroscopy-strain-semiconductor-samples-an1023-en.pdf
+      \endverb
+      \keyw{semiconductors}
+    \endentry
+    \entry{wikioptspec}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 10.12.2024)}
+      \field{title}{Optical Spectrometer}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Optical_spectrometer
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Optical_spectrometer
+      \endverb
+      \keyw{optical spectrometer}
+    \endentry
+    \entry{spectrap}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 12.12.2024)}
+      \field{title}{Polymer Analysis using Raman Spectroscopy}
+      \verb{urlraw}
+      \verb https://physicsopenlab.org/2022/05/08/polymer-analysis-using-raman-spectroscopy/
+      \endverb
+      \verb{url}
+      \verb https://physicsopenlab.org/2022/05/08/polymer-analysis-using-raman-spectroscopy/
+      \endverb
+      \keyw{spectra}
+    \endentry
+    \entry{spectrumet}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 16.12.2024)}
+      \field{title}{Raman Spectroscopy of Alcoholic Molecules}
+      \verb{urlraw}
+      \verb https://physicsopenlab.org/2022/01/20/raman-spectra-of-alcoholic-molecules/
+      \endverb
+      \verb{url}
+      \verb https://physicsopenlab.org/2022/01/20/raman-spectra-of-alcoholic-molecules/
+      \endverb
+      \keyw{spectra}
+    \endentry
+    \entry{spectrumdcm}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 16.12.2024)}
+      \field{title}{Raman Spectroscopy of Organic and Inorganic Molecules}
+      \verb{urlraw}
+      \verb https://physicsopenlab.org/2022/01/11/raman-spectroscopy-of-organic-and-inorganic-molecules/
+      \endverb
+      \verb{url}
+      \verb https://physicsopenlab.org/2022/01/11/raman-spectroscopy-of-organic-and-inorganic-molecules/
+      \endverb
+      \keyw{spectra}
+    \endentry
+    \entry{pharma}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ab6a25c74e07c84c3576fa912572d2d1}{%
+           family={Scientific},
+           familyi={S\bibinitperiod},
+           given={Horiba},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \strng{fullhash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \strng{bibnamehash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \strng{authorbibnamehash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \strng{authornamehash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \strng{authorfullhash}{ab6a25c74e07c84c3576fa912572d2d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 02.12.2024)}
+      \field{title}{Raman spectroscopy for pharmaceutical}
+      \verb{urlraw}
+      \verb https://www.horiba.com/int/scientific/products/raman-imaging-and-spectrometers/raman-application-corner/raman-spectroscopy-for-pharmaceutical/#:~:text=Raman%20spectroscopy%20plays%20a%20crucial,forms%2C%20and%20analyze%20drug%20formulations.
+      \endverb
+      \verb{url}
+      \verb https://www.horiba.com/int/scientific/products/raman-imaging-and-spectrometers/raman-application-corner/raman-spectroscopy-for-pharmaceutical/#:~:text=Raman%20spectroscopy%20plays%20a%20crucial,forms%2C%20and%20analyze%20drug%20formulations.
+      \endverb
+      \keyw{pharma}
+    \endentry
+    \entry{wikistimlaser}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 05.12.2024)}
+      \field{title}{Stimulated emission}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Stimulated_emission
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Stimulated_emission
+      \endverb
+      \keyw{laser}
+    \endentry
+    \entry{ethl2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8b8ab9508829bda2f1a61d29163fcd60}{%
+           family={Yasushi\bibnamedelima Numata},
+           familyi={Y\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Yoshiyuki\bibnamedelima Iida},
+           giveni={Y\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=38b1983eac7b0aae3a0501deee1f1bb6}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \strng{fullhash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \strng{bibnamehash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \strng{authorbibnamehash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \strng{authornamehash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \strng{authorfullhash}{732ca8e5fda0ee09c22d75b182ef553c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Quantitative Spectroscopy and Radiative Transfer}
+      \field{title}{Quantitative analysis of alcohol–water binary solutions using Raman spectroscopy}
+      \field{volume}{112}
+      \field{year}{2011}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jqsrt.2011.01.005
+      \endverb
+      \keyw{eth}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -2377,10 +2377,24 @@
     <bcf:citekey order="14" intorder="1">RSAA</bcf:citekey>
     <bcf:citekey order="15" intorder="1">wikioptspec</bcf:citekey>
     <bcf:citekey order="16" intorder="1">wikigrating</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">spectrumdcm</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">spectrumet</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">spectrap</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">spectrap</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">dcml</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">dcml</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">spectrumdcm</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">ethl1</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">ethl2</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">ethl1</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">ethl2</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">spectrumet</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">pel1</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">pel2</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">pel1</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">pel2</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">spectrap</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">ps1</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">ps2</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">ps1</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">ps2</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">spectrap</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

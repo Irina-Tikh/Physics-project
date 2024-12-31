@@ -21,4 +21,8 @@
 \contentsline {section}{\numberline {6}Results and Discussion}{17}{}%
 \contentsline {subsection}{\numberline {6.1}Evaluation of the Measured Data}{17}{}%
 \contentsline {subsection}{\numberline {6.2}Comparison to Literature}{18}{}%
-\contentsline {section}{\numberline {7}Appendix}{27}{}%
+\contentsline {paragraph}{Dichloromethane}{18}{}%
+\contentsline {paragraph}{Ethanol}{20}{}%
+\contentsline {paragraph}{Polyethylene (PE)}{22}{}%
+\contentsline {paragraph}{Polystyrene (PS)}{24}{}%
+\contentsline {section}{\numberline {7}Appendix}{28}{}%
