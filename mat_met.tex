@@ -1,5 +1,5 @@
 \subsection{Setup Requirements}
-
+For every experiment, the necessary parts were assembled in an open box, see Figure \ref{fig:setup_photo_numbered}. Every part of the setup is a part of the collection of physics experiments used by the Physical Chemistry Laboratory, ETH Zurich. All needed parts are listed below.
 \begin{figure}[ht]
     \centering
     \includegraphics[width=\textwidth]{images/setup_graphics/setup_photo_numbered.png}
@@ -7,6 +7,17 @@
     \label{fig:setup_photo_numbered}
 \end{figure}
 
+\begin{itemize}
+  \item Laser for the emission of light of a certain wavelength
+  \item Mirrors for the reflection of light between the laser, notch filter and optical fible coupler
+  \item Notch filter to reflect light with the same wavelength as the laser light
+  \item Objective to focus the laser beam on the surface of the object and retain more of the raman scattered light
+  \item Sample holder and cuvettes to hold the sample in place
+  \item Optical fibre coupler to couple light into the optical cable
+  \item Optial cable to let light travel to the spectrometer
+  \item Spectrometer to record spectra
+  \item Laptop with OceanView 1.6.7 to work with the laser
+\end{itemize}
 
 \subsection{Setup}
 
@@ -29,10 +40,9 @@ A laser beam is a stream of photons, all of which have the same wavelength and p
 
 In quantum mechanics, electrons in atoms have certain discrete energy levels they can occupy. The higher the energy level, the more energy the atom has. Spontaneously, the atom can transition to a lower energy level, which is when the energy difference between the two levels is released in form of electromagnetic radiation, so a photon. This is called spontaneous emission. In contrast, stimulated emission when a passing photon interacts with the excited electron and causes it to transition to a lower energy level, which creates a photon. The passing photon has to have the same energy as the newly created one, and the created photon also has the same phase as the other. This creates a chain reaction, more and more photons are created if there are enough atoms in an excited state.\cite{wikilaser} \cite{wikistimlaser}
 
-\bigskip
-
 \begin{figure}[ht]
     \centering
+    \vspace{-10pt}
     \includegraphics[width=\textwidth]{images/setup_graphics/laser.png}
     \caption{Graphic of a simplified laser: A) full mirror; B) gain medium; C) laser beam; D) partial mirror; E) laser pumping energy;}
     \label{fig:laser}
@@ -41,7 +51,9 @@ In quantum mechanics, electrons in atoms have certain discrete energy levels the
 
 In a typical laser (see Figure \ref{fig:laser}), energy (E) is pumped into a so called gain medium (B), usually either by an outside light source or electric field. This process is either continuous or pulsed. When the amount of atoms in one excited state exeeds that of atoms in some lower state, more photons are released than absorbed, the light is amplified. This state is called population inversion. The gain medium is placed between a full mirror (A), which reflects the photons, and a partial mirror (D), which lets some photons through. These photons make up the laser beam (C).\cite{wikilaser} \cite{wikistimlaser}
 
-\newpage
+\bigskip
+
+A neodymium-doped yttrium aluminum garnet laser was used, emitting light with the wavelength 1064 nm, which was immediately ferquency-doubled to 532 nm with maximum output of 500mW.
 
 \subsubsection{Notch Filter}
 HELP
