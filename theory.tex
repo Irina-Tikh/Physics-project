@@ -42,7 +42,7 @@ In a polyatomic molecule, a permanent electric dipole moment is formed when the 
 \bigskip
 
 This oscilating dipole moment is capable of absorbing and emitting light with the frequency \(\nu_k\).
-Scattering of light by a molecule is associated with oscillations of an induced electric dipole. An external electric field will polarize the molecule, creating an induced electric dipole. If this induced dipole oscillates, it can produce electromagnetic radiation. If the external electric field is static, the only possible frequencies are the ones of the normal vibrations of the molecule, while if the electric field oscillates, for example like a beam of light,the induced dipole follows the alternating electric field while also being modulated by the normal vibrations of the nuclei. This results in it oscillating in combinations of the frequencies of the external electric fiels and the normal vibration, radiation all those frequencies.
+Scattering of light by a molecule is associated with oscillations of an induced electric dipole. An external electric field will polarize the molecule, creating an induced electric dipole. If this induced dipole oscillates, it can produce electromagnetic radiation. If the external electric field is static, the only possible frequencies are the ones of the normal vibrations of the molecule, while if the electric field oscillates, for example like a beam of light,the induced dipole follows the alternating electric field while also being modulated by the normal vibrations of the nuclei. This results in it oscillating in combinations of the frequencies of the external electric fiels and the normal vibration, radiation all those frequencies. \cite{theory1}
 
 \subsection{Classical Description}
 
@@ -54,7 +54,7 @@ The classical theory of Rayleigh and Raman scattering is based on the concept th
 \end{equation}
 
 \(\overrightarrow{\mu} \): induced dipole moment vector (\unit{\coulomb\meter})\\
-\(\overrightarrow{E} \): electric field vector (\unit{\volt\per\meter})
+\(\overrightarrow{E} \): electric field vector (\unit{\volt\per\meter})\\
 \(\alpha\): polarizability (\unit{\coulomb\meter\squared\per\volt}) \\
 \(\beta\): hyperpolarizability (\unit{\coulomb\meter\cubed\per\volt\squared}) \\
 \(\gamma\): second hyperpolarizability (\unit{\coulomb\meter^4\volt^{-3}}) 
@@ -109,7 +109,8 @@ The polarizability tensor of a molecule can be graphically represented by an ell
 The polarizability \(\alpha\) is a continuous function of the nuclear displacement \(q_k\) for the k-th normal vibrational mode, and as such can be expanded into a Taylor series:
 
 \begin{equation} \label{eq:polarizability}
-    \alpha=\alpha_{q=0} + (\frac{\partial\alpha}{\partial q_k})_{q=0}q + highter\:order\:terms
+    \alpha=\alpha_{q=0} + 
+    \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q + highter\:order\:terms
 \end{equation}
 
 
@@ -138,47 +139,116 @@ The electric field produced by the electromagnetic wave with frequency \(\nu_0\)
 (\unit{\coulomb\meter\squared\per\volt})\\
 
 
-The polarizability describes a molecules tendency to develop a dipole moment when in an electric field. This would of course depend on the distance between the nuclei of the molecule, which fluctuates as the bond vibrates. As such it can be written as a function of the nuclear displacement \(q\) with \(q_0=0\).
+The polarizability describes a molecules tendency to develop a dipole moment when in an electric field. This would of course depend on the distance between the nuclei of the molecule, which fluctuates as the bond vibrates. As such it can be written as a function of the nuclear displacement \(q\) with \(q_0=\)maximum displacement.
 
 \begin{equation} \label{eq:nuclear_displacement}
    q=q_0cos(2\pi\nu_kt)
 \end{equation}
 
-\(q\): nuclear displacement at time t (\unit{\meter}, but typically for molecular vibrations \unit{\angstrom} is sometimes used)\\
+\(q\): nuclear displacement at time t (\unit{\meter}, but for molecular vibrations \unit{\angstrom} is used sometimes)\\
+\(q_0\): amplitude, maximum diplacement (\unit{\meter}, but for molecular vibrations \unit{\angstrom} is used sometimes)\\
 \(\nu_k \) : frequency k-th internal vibration (\unit{\hertz}) \\
 \(t\): time at which the displacement is calculated (\unit{\second})
+
 
 \bigskip 
 
 Substituting Equations \ref{eq:electic_field}, \ref{eq:nuclear_displacement} and \ref{eq:polarizability} into Equation \ref{eq:dipole_moment} and expanding it using trigonometric identities results in:
 
 \begin{multline} \label{eq:dipole_moment_expanded}
-    \mu = (\alpha_{q=0} + (\frac{\partial\alpha}{\partial q})_{q=0}q)*E_0cos(2\pi\nu_0t) = \\
-    = \alpha_{q=0}*E_0cos(2\pi\nu_0t) + (\frac{\partial\alpha}{\partial q})_{q=0}q_0*cos(2\pi\nu_kt)*E_0cos(2\pi\nu_0t)=\\
-    =\alpha_{q=0}*E_0cos(2\pi\nu_0t) + \frac{1}{2}(\frac{\partial\alpha}{\partial q})_{q=0}q_0E_0[cos(2\pi(\nu_0-\nu_k)t)+cos(2\pi(\nu_0-\nu_k)t)]= \\
-    =\alpha_{q=0}*E_0cos(2\pi\nu_0t)+\frac{1}{2}(\frac{\partial\alpha}{\partial q})_{q=0}q_0E_0cos(2\pi(\nu_0-\nu_k)t) + \frac{1}{2}(\frac{\partial\alpha}{\partial q})_{q=0}q_0E_0cos(2\pi(\nu_0+\nu_k)t)
+    \mu = (\alpha_{q=0} + \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q)*E_0cos(2\pi\nu_0t) = \\
+    = \alpha_{q=0}*E_0cos(2\pi\nu_0t) +  \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q_0*cos(2\pi\nu_kt)*E_0cos(2\pi\nu_0t)=\\
+    =\alpha_{q=0}*E_0cos(2\pi\nu_0t) + \frac{1}{2} \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q_0E_0\left(cos(2\pi(\nu_0-\nu_k)t)+cos(2\pi(\nu_0-\nu_k)t)\right)= \\
+    =\alpha_{q=0}*E_0cos(2\pi\nu_0t)+\frac{1}{2} \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q_0E_0cos(2\pi(\nu_0-\nu_k)t) + \frac{1}{2} \left( \frac{\partial\alpha}{\partial q_k}\right)_{q=0}q_0E_0cos(2\pi(\nu_0+\nu_k)t)
 \end{multline}
 
 The different arguments of the three cosine functions mean that the molecule oscillates with three distinct frequencies simultaneously, each corresponding to three different emitted frequencies of light, \(\nu_0\), \(\nu_0-\nu_k\) and \(\nu_0+\nu_k\). They correspond to Rayleigh scattering, where the frequency of the photon stays the same, Stokes scattering, where the scattered photon has a lower frequency, and Anti-Stokes scattering, where the scattered photon has a higher frequency.
 
 \bigskip
 
-Equation \ref{eq:dipole_moment_expanded} also shows that Stokes and Anti-Stokes scattering only appears if \((\frac{\partial\alpha}{\partial q})_{q=0}\neq 0\), which means that the vibrational mode changes the polarizability.
+Equation \ref{eq:dipole_moment_expanded} also shows that Stokes and Anti-Stokes scattering only appears if \((\frac{\partial\alpha}{\partial q})_{q=0}\neq 0\), which means that in order for a vibrational mode to be raman active, the vibrational mode has to change the polarizability.
 
 \bigskip
 
-Equation \ref{eq:dipole_moment_expanded} implies that Stokes and Anti-Stokes scattering have the same intensity, which has been proven to be wrong experimentally. For example Figure \ref{fig:dcm_i}, an experimentally aquired Raman spectrum of dichloromethane where the Rayleigh scattering has been removed and the difference of the recorded wavelengths to the excitation wavelength has been calculated in terms of wavenumber, which is the reciprocal of the wavelength, shows clearly that the scattering is not symmetric, it is clearly much higher on one side. This makes it clear that a purely classical mechanical approach is not enough to explain this phenomenon and a quantum mechanical approach is needed.
+Equation \ref{eq:dipole_moment_expanded} implies that Stokes and Anti-Stokes scattering have the same intensity, which has been proven to be wrong experimentally. For example Figure \ref{fig:dcm_i}, an experimentally aquired Raman spectrum of dichloromethane where the Rayleigh scattering has been removed and the difference of the recorded wavelengths to the excitation wavelength has been calculated in terms of wavenumber, which is the reciprocal of the wavelength, shows clearly that the scattering is not symmetric, it is clearly much higher on one side. This makes it clear that a purely classical mechanical approach is not enough to explain this phenomenon and a quantum mechanical approach is needed. \cite{theory1} \cite{presentation}
+
+\bigskip
+
+An N-atomic molecule has 3N degrees of freedom: each atom has 3 translational coodrinates. 3 of those 3N degrees of freedom correspond to translational degrees of freedom, moving the whole molecule in some direction. 3 (resp. 2 for linear molecules) of the remaining 3N-3 degrees of freedom corrsepond to rotational degrees of freedom, which means that an N-atomic molecule has 3N-6 (resp. 3N-5) vibrational degrees of freedom. \cite{molecularvibration}
 
 \newpage
 
 \subsection{Quantum Mechanical Approach}
 
-The basic principles of quantum dynamics state that energy 
-
-The interaction between the photon and molecule is considered to be a collision.
+The basic principles of quantum dynamics state that energy associated with vibrational, rotational and electronic degrees of freedom of a molecule can assume values only from a discrete set. This set contains the quantized energy levels corresponding to the possible stationary states of the molecule.
 
 \begin{figure}[h]
     \includegraphics[width=\textwidth]{images/theory/qm_scattering.png}
-    \caption{Energy model of the photon molecule collision}
+    \caption{6. Diagram of transitions between vibrational energy levels corresponding to the processes of Rayleigh and Raman scattering.}
+    \label{fig:energy_model}
 \end{figure}
 
+In quantum mechanics, absorbtion and emission of radiation by a molecular system are results of upward resp. downward transitions between two energy levels. The radiation absorbed resp. emitted is quantized, the energy enclosed in disctrete photons that can be viewed as electromagnetic waves. The change in energy of the molecule, \(\pm\Delta E\), is equivalent to the energy of the photon emitted or absorbed (Figure \ref{fig:energy_model}). The energy \(E\) of a photon is directly proportional to its frequency:
+
+\begin{equation}
+    E = h \nu
+\end{equation}
+
+\( E\): energy of a photon (\unit{\joule})\\
+\( h\): Planck's constant (\SI{6.62608e-34}{\joule\second})\\
+\(\nu\): frequency of the photon (\unit{hertz})
+
+\bigskip
+
+Rayleigh and Raman scattering invorve two transitions which occur at almost the same time: one photon of the incident radiation is annihilated and the molecule transitions into a virtual state, and another photon, either of the same energy (Rayleigh scattering), lower energy (Stokes scattering) or higher energy (Anti-Stokes scattering) is created. The virtual state is a transition state which is not one of the eigenstates of the molecule, so it is only imaginary and used to separate the energy transition into two one-photon processes. 
+
+\bigskip
+
+Quantum mechanics also explains the discreptancy between 
+ the intensities of the Stokes and Anti-Stokes scattering. In order to undergo Anti-Stokes scattering, the molecule has to be on an energy level which it can fall down from. At room temperature, most molecules are in their lowest energy level, which means that only a few are capable of Anti-Stokes scattering. The equilibrium of the population of the states is giveb my the Boltzmann thermal distribution:
+
+ \begin{equation}
+    \frac{N_i}{N_j} = exp \left( \frac{E_j-E_i}{kT}\right)
+ \end{equation}
+
+\(N_i\): population state i \\
+\(N_j\): population state j \\
+\(E_i\): energy state i (\unit{\joule})\\
+\(E_j\): energy state j (\unit{\joule})\\
+\(k\): Boltzmann constant (\SI{1.380649e-23}{\joule\per\kelvin})\\
+\(T\): temperature of the system (\unit{\kelvin})
+
+\bigskip
+
+The relative intensities of the Stokes and Anti-Stokes scattering is given by:
+
+\begin{equation}
+    \frac{I_{Stokes}}{I_{Anti-Stokes}} = \frac{I_{\widetilde{\nu_0} - \widetilde{\nu_k}}}{I_{\widetilde{\nu_0} + \widetilde{\nu_k}}} = \frac{(\widetilde{\nu_0} - \widetilde{\nu_k})^4}{(\widetilde{\nu_0} + \widetilde{\nu_k})^4}exp \left( \frac{hc\widetilde{\nu_k}}{kT}\right)
+ \end{equation}
+
+ \(I_{Stokes}\): intensity Stokes scattering (\unit{\watt})\\
+ \(I_{Anti-Stokes}\): intensity Anti-Stokes scattering (\unit{\watt})\\
+\(\widetilde{\nu_0}\): wavenumber incident light (cm\(^{-1}\))\\
+\(\widetilde{\nu_k}\): wavenumber corresponding to the energy difference between states (cm\(^{-1}\))\\
+\( h\): Planck's constant (\SI{6.62608e-34}{\joule\second})\\
+\(c\): speed of light (\SI{2.99792458e8}{\meter\per\second})\\
+\(k\): Boltzmann constant (\SI{1.380649e-23}{\joule\per\kelvin})\\
+\(T\): temperature of the system (\unit{\kelvin})
+
+\bigskip
+
+
+which explains the discreptancy that is made by the classical mechanical approach. \cite{theory1} \cite{presentation}
+
+\newpage
+
+\subsection{Group Theory}
+The mathematical group theory can be used to describe multi-atomic molecules in order to predict, describe and classify many molecular properties. In the case of Raman spectroscopy, group theory is used to predict the number of raman bands of a molecule as well as a qualitative description of the normal modes of vibration with which they are associated.
+
+\bigskip
+
+Group theory can be used to conduct structural analyses of raman active compuonds. The symmetry of a molecule determines whether a vibration is raman active. 
+
+\bigskip
+
+In a molecule, a movement from one position to another one which is indistinguishable from the original one is called a symmetry operation. Each symmetry operation is carried out with respect to a geometric entity, be it a plane, a line or a point, which is called a symmetry element. There is a limited number of possible symmetry elements. Molecules can have one or more symmetry elements, although not all combinations of symmetry elements are possible. Each set of possible symmetry combinations is called a "point group". Most known molecules have lod degrees of molecular symmetry, so the number of relevant point groups is limited. For each point groups, there exist character tables which can be used to calculate the expected number of Raman active modes as well as Raman peaks. \cite{gt}
