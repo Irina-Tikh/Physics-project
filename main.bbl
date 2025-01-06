@@ -545,6 +545,20 @@
       \endverb
       \keyw{spectra}
     \endentry
+    \entry{iypt}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{note}{(accessed: 4.01.2025)}
+      \field{title}{Problems for the 38th IYPT 2025}
+      \verb{urlraw}
+      \verb https://www.iypt.org/problems/problems-for-the-38th-iypt-2025/
+      \endverb
+      \verb{url}
+      \verb https://www.iypt.org/problems/problems-for-the-38th-iypt-2025/
+      \endverb
+      \keyw{iypt}
+    \endentry
     \entry{spectrumet}{online}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}

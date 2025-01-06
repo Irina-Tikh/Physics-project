@@ -13,7 +13,7 @@ The raw data would show the intensity of light, measured as the absolute amount 
     \(\widetilde{\nu}\): Wavenumber\\
     \(\lambda\): Wavelength\\
 
-    Is the formula to calculate the wavenumber form the wavelength. To calculate the Raman shift:
+  The wavenumber \(\widetilde{\nu}\) is the inverse of th wavelength, and in order to calculate the raman shift the difference between the experimentally recorded wavenumber and the wavenumber of the incident laser radiation has to be calculated.
 
     \begin{equation} \label{eq:1}
         \widetilde{\nu}_r = \frac{1}{\lambda_i} - \frac{1}{\lambda_r}
@@ -37,22 +37,32 @@ The raw data would show the intensity of light, measured as the absolute amount 
 
     \bigskip
 
-    The intensities that are calculated with the Equation \ref{eq:2} are then plotted as a function of the Raman shift calculated in Equation \ref{eq:1}. This task was done using python code, see Figure \ref{fig:python} in the Appendix.
+    The intensities that are calculated with the Equation \ref{eq:2} are then plotted as a function of the Raman shift calculated in Equation \ref{eq:1}. This task was done using a program written in python, see Figure \ref{fig:python} in the Appendix.
+
+\subsection{Errors}
+The width of a raman peak can be a result of different things, one of the possibilities is that two close peaks overlap, which results in their convolution, and are indistinguishable from each other and only identifiable as one broad, potentially asymmetric peak. This can result in errors when measuring the wavelength with the maximum intensity value and comparing it to literature. A spectrometers ability to resolute close-lying peaks is a very important parameter. Spectrometers are not perfect and produce an apparent spectral broadening of the purely monochromatic wavelength Half Width at Half Maximum (HWHM), half the distance between the two points on the curve with half of the maximal value, can be used to measure resolution.
+
+\bigskip
+
+Different literature sources provide different peak values for the same molecules, not all literature sources mention all peaks that appear so differences appear, but generally they are relatively small. 
+
+\newpage
+
 
 \subsection{Comparison to Literature}
 
 \paragraph{Dichloromethane}
 
-\begin{wrapfigure}{r}{0.5\textwidth} %this figure will be at the right
+\begin{wrapfigure}{r}{0.4\textwidth} %this figure will be at the right
     \centering
     \vspace{-20pt}
-    \includegraphics[width=0.4\textwidth]{images/raman_spectra/dcm_i.png}
+    \includegraphics[width=0.3\textwidth]{images/raman_spectra/dcm_i.png}
     \caption{Dichloromethane, ball and stick model. Green: chlorine; gray: carbon; white: hydrogen}
     \label{fig:dcm_i}
 \end{wrapfigure}
 
 
-    Figures \ref{fig:dcm_x} and \ref{fig:dcm_l} show experimental and literature spectra of dichloromethane, CH\(_2\)Cl\(_2\), which is one carbon atom with two covalent bonds to hydrogen atoms and two to chloride atoms, see Figure \ref{fig:dcm_i}. This 5-atomic molecule has 3*5-6, so 9 vibrational modes, all of which are raman active. Table \ref{table:dcm} compares the recorded peaks to literature values, as well as notes the assigned vibrational modes. 
+    Figures \ref{fig:dcm_x} and \ref{fig:dcm_l} show experimental and literature spectra of dichloromethane, CH\(_2\)Cl\(_2\), which is one carbon atom with two covalent bonds to hydrogen atoms and two to chloride atoms, see Figure \ref{fig:dcm_i}. This 5-atomic molecule has 3\(\cdot\)5-6, so 9 vibrational modes, all of which are raman active. Table \ref{table:dcm} compares the recorded peaks to literature values, as well as notes the assigned vibrational modes. 
 
     \begin{table}[h]
     \begin{center}
@@ -79,7 +89,8 @@ The raw data would show the intensity of light, measured as the absolute amount 
     \end{center}
     \end{table}
 
-    Table \ref{table:dcm} shows that the measured values match the literature values. The missing peaks at 893 and 1255 \( cm^{-1}\) could be explained by the fact that they might just be too weak to be mentioned, as the corresponding regions in Figure \ref{fig:dcm_x} show slight elevations. The different peaks in Figure \ref{fig:dcm_x} are more pronounced, which might be the result of better quality equipment, specifically the spectrometer, which is able to differenciate between peaks that are very close together. The without assignment might stem from rotational frequencies and not vibrational frequencies.
+    Table \ref{table:dcm} shows that the measured values match the literature values. The missing peaks at 893 and 1255 \( cm^{-1}\) could be explained by the fact that they might just be too weak to be mentioned, as the corresponding regions in Figure \ref{fig:dcm_x} show slight elevations. The different peaks in Figure \ref{fig:dcm_x} are more pronounced, which might be the result of better quality equipment, specifically the spectrometer, which is able to differenciate between peaks that are very close together. The peaks without assignment might stem from rotational frequencies and not vibrational frequencies.
+
 
     \bigskip
 
@@ -87,14 +98,15 @@ The raw data would show the intensity of light, measured as the absolute amount 
 
     \bigskip
 
-    The literature values used in Table \ref{table:dcm} and the Figure \ref{fig:dcm_l} are not the same, so there are some differences, but they are small. Different sources record slightly different values. Figre \ref{fig:dcm_l} is used to demonstrate the relative intensities of the raman bands.
+    The literature values used in Table \ref{table:dcm} and the Figure \ref{fig:dcm_l} are not the same, so there are some differences, but they are small. Figre \ref{fig:dcm_l} is used to demonstrate the relative intensities of the raman bands.
 
+
+     
     \begin{figure}[h]
         \centering
         \includegraphics[width=\textwidth]{images/raman_spectra/raman_shift_DCM.png}
         \caption{Experimental Raman spectrum of dichloromethane}
         \label{fig:dcm_x}
-        \vspace{30pt}
     \end{figure}
 
     \begin{figure}[h]
@@ -158,7 +170,7 @@ The raw data would show the intensity of light, measured as the absolute amount 
         \includegraphics[width=\textwidth]{images/raman_spectra/raman_shift_ethanol.png}
         \caption{Experimental Raman spectrum of ethanol}
         \label{fig:eth_x}
-        \vspace{30pt}
+        \vspace{10pt}
     \end{figure}
 
 
@@ -290,6 +302,7 @@ The raw data would show the intensity of light, measured as the absolute amount 
         \makebox[\textwidth][c]{\includegraphics[width=1.2\textwidth]{images/raman_spectra/raman_shift_polystyreneh.png}}
         \caption{Experimental Raman spectrum of polystyrene}
         \label{fig:ps_x}
+        \vspace{-10pt}
     \end{figure}
 
     \begin{figure}[h]

@@ -1,31 +1,33 @@
-\contentsline {section}{\numberline {1}History and Applications}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Crystallography}{4}{}%
-\contentsline {subsection}{\numberline {1.2}Strain Analysis}{4}{}%
-\contentsline {subsection}{\numberline {1.3}Biochemistry and Pharmaceuticals}{4}{}%
-\contentsline {subsection}{\numberline {1.4}Clinical Medicine}{5}{}%
-\contentsline {subsection}{\numberline {1.5}Environmental Science}{5}{}%
-\contentsline {section}{\numberline {2}Theory}{6}{}%
-\contentsline {subsection}{\numberline {2.1}Light and Matter}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Classical Description}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Quantum Mechanical Approach}{11}{}%
-\contentsline {subsection}{\numberline {2.4}Group Theory}{13}{}%
-\contentsline {section}{\numberline {3}Material and Methods}{14}{}%
-\contentsline {subsection}{\numberline {3.1}Setup Requirements}{14}{}%
-\contentsline {subsection}{\numberline {3.2}Setup}{15}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Laser}{16}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Notch Filter}{17}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}Optical Spectrometer}{17}{}%
-\contentsline {paragraph}{Optical Grating}{18}{}%
-\contentsline {subsection}{\numberline {3.3}Additional Material}{19}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}Laptop with OceanView 1.6.7}{19}{}%
-\contentsline {section}{\numberline {4}Experiment}{20}{}%
-\contentsline {subsection}{\numberline {4.1}Fine-tuning and Intensity Optimisation}{20}{}%
-\contentsline {section}{\numberline {5}Results and Discussion}{21}{}%
-\contentsline {subsection}{\numberline {5.1}Evaluation of the Measured Data}{21}{}%
-\contentsline {subsection}{\numberline {5.2}Comparison to Literature}{22}{}%
-\contentsline {paragraph}{Dichloromethane}{22}{}%
-\contentsline {paragraph}{Ethanol}{24}{}%
-\contentsline {paragraph}{Polyethylene (PE)}{26}{}%
-\contentsline {paragraph}{Polystyrene (PS)}{28}{}%
-\contentsline {section}{\numberline {6}Outlook}{30}{}%
-\contentsline {section}{\numberline {7}Appendix}{34}{}%
+\contentsline {section}{\numberline {1}Introduction}{4}{}%
+\contentsline {section}{\numberline {2}History and Applications}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Crystallography}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Strain Analysis}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Biochemistry and Pharmaceuticals}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Clinical Medicine}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Environmental Science}{7}{}%
+\contentsline {section}{\numberline {3}Theory}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Light and Matter}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Classical Description}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Quantum Mechanical Approach}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Group Theory}{15}{}%
+\contentsline {section}{\numberline {4}Material and Methods}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Setup Requirements}{16}{}%
+\contentsline {subsection}{\numberline {4.2}Setup}{17}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Laser}{18}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Notch Filter}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Optical Spectrometer}{19}{}%
+\contentsline {paragraph}{Optical Grating}{20}{}%
+\contentsline {subsection}{\numberline {4.3}Additional Material}{21}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Laptop with OceanView 1.6.7}{21}{}%
+\contentsline {section}{\numberline {5}Experiment}{22}{}%
+\contentsline {subsection}{\numberline {5.1}Fine-tuning and Intensity Optimisation}{22}{}%
+\contentsline {section}{\numberline {6}Results and Discussion}{23}{}%
+\contentsline {subsection}{\numberline {6.1}Evaluation of the Measured Data}{23}{}%
+\contentsline {subsection}{\numberline {6.2}Errors}{24}{}%
+\contentsline {subsection}{\numberline {6.3}Comparison to Literature}{25}{}%
+\contentsline {paragraph}{Dichloromethane}{25}{}%
+\contentsline {paragraph}{Ethanol}{26}{}%
+\contentsline {paragraph}{Polyethylene (PE)}{29}{}%
+\contentsline {paragraph}{Polystyrene (PS)}{31}{}%
+\contentsline {section}{\numberline {7}Outlook}{33}{}%
+\contentsline {section}{\numberline {8}Appendix}{37}{}%
