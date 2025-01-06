@@ -26,7 +26,7 @@
 \contentsline {subsection}{\numberline {6.2}Errors}{24}{}%
 \contentsline {subsection}{\numberline {6.3}Comparison to Literature}{25}{}%
 \contentsline {paragraph}{Dichloromethane}{25}{}%
-\contentsline {paragraph}{Ethanol}{26}{}%
+\contentsline {paragraph}{Ethanol}{27}{}%
 \contentsline {paragraph}{Polyethylene (PE)}{29}{}%
 \contentsline {paragraph}{Polystyrene (PS)}{31}{}%
 \contentsline {section}{\numberline {7}Outlook}{33}{}%
